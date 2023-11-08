@@ -82,9 +82,7 @@ The key findings from the analysis are as follows:
 - The Production Department has a high employee turnover.
 - The year 2011 had the highest number of new hires.
 
-## Algorithms
 
-The analysis mainly involves data exploration and visualization using Python libraries, including Pandas, Matplotlib, Seaborn, and Plotly. No specific algorithms are used.
 
 ## Libraries Used
 
